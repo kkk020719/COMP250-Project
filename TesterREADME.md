@@ -1,6 +1,6 @@
-# COMP250-A3-Tester
+# COMP250-Tester
 
-A collaborative test suite for the third assignment of COMP 250 at McGill University (Winter 2021). It includes all the tests from the instructor mini tester as well as extra tests written by students.
+This is a collaborative test suite for a project of COMP 250 at McGill University (Winter 2021). It includes all the tests from the instructor mini tester as well as extra tests written by students.
 
 ## Important
 
