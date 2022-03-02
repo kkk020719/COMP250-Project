@@ -1,4 +1,4 @@
-# COMP250-Project
+# COMP250-Project Spatial data classification
 Using binary decision trees to classify and analyze spatial data based on entropy calculations
 
 # Despcription of the project
